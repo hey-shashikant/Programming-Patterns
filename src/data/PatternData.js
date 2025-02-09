@@ -46,6 +46,18 @@ const PatternData = [
       { id: "p29", name: "Fruit Into Baskets", link: "https://leetcode.com/problems/fruit-into-baskets/", difficulty: "Medium", done: false },
       { id: "p30", name: "Contains Duplicate II", link: "https://leetcode.com/problems/contains-duplicate-ii/description/", difficulty: "Easy", done: false },
     ],
+  },
+  {
+    id: 4,
+    name: "Merge Intervals",
+    problems: [
+      { id: "p31", name: "Merge Intervals", link: "https://leetcode.com/problems/merge-intervals/description/", difficulty: "Medium", done: false },
+      { id: "p32", name: "Insert Intervals", link: "https://leetcode.com/problems/insert-interval/", difficulty: "Medium", done: false },
+      { id: "p33", name: "Interval List Intersections", link: "https://leetcode.com/problems/interval-list-intersections/", difficulty: "Medium", done: false },
+      { id: "p34", name: "Employee Free Time", link: "https://leetcode.com/problems/employee-free-time/description/", difficulty: "Hard", done: false },
+      { id: "p35", name: "Task Scheduler", link: "https://leetcode.com/problems/task-scheduler/", difficulty: "Medium", done: false },
+      { id: "p36", name: "Meeting Rooms II", link: "https://leetcode.com/problems/meeting-rooms-ii/description/", difficulty: "Medium", done: false },
+    ],
   }
 ];
 
