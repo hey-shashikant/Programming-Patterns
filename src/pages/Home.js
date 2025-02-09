@@ -1,11 +1,9 @@
-import React from "react";
 import PatternList from "../components/Pattern/PatternList";
-import PatternData from "../data/PatternData";
 
 const Home = () => {
   return (
-    <div className="min-h-screen bg-gray-50 p-8">
-      <PatternList patterns={PatternData} />
+    <div className="bg-gray-50 min-h-screen p-5">
+      <PatternList />
     </div>
   );
 };
