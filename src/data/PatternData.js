@@ -58,6 +58,23 @@ const PatternData = [
       { id: "p35", name: "Task Scheduler", link: "https://leetcode.com/problems/task-scheduler/", difficulty: "Medium", done: false },
       { id: "p36", name: "Meeting Rooms II", link: "https://leetcode.com/problems/meeting-rooms-ii/description/", difficulty: "Medium", done: false },
     ],
+  },
+  {
+    id: 5,
+    name: "Linked List",
+    problems: [
+      { id: "p37", name: "Reverse Linked List", link: "https://leetcode.com/problems/reverse-linked-list/description/", difficulty: "Easy", done: false },
+      { id: "p38", name: "Reverse Nodes in k-Group", link: "https://leetcode.com/problems/reverse-nodes-in-k-group/description/", difficulty: "Hard", done: false },
+      { id: "p39", name: "Reverse Linked List II", link: "https://leetcode.com/problems/reverse-linked-list-ii/description/", difficulty: "Medium", done: false },
+      { id: "p40", name: "Reorder List", link: "https://leetcode.com/problems/reorder-list/description/", difficulty: "Medium", done: false },
+      { id: "p41", name: "Swapping Nodes in a Linked List", link: "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/", difficulty: "Medium", done: false },
+      { id: "p42", name: "Reverse Nodes in Even Length Groups", link: "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/", difficulty: "Medium", done: false },
+      { id: "p43", name: "Remove Duplicates from Sorted List", link: "https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/", difficulty: "Easy", done: false },
+      { id: "p44", name: "Remove Linked List Elements", link: "https://leetcode.com/problems/remove-linked-list-elements/description/", difficulty: "Easy", done: false },
+      { id: "p45", name: "Split Linked List in Parts", link: "https://leetcode.com/problems/split-linked-list-in-parts/description/", difficulty: "Medium", done: false },
+      { id: "p46", name: "Delete N Nodes After M Nodes of a Linked List", link: "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/description/", difficulty: "Easy", done: false },
+      { id: "p47", name: "Swap Nodes in Pairs", link: "https://leetcode.com/problems/swap-nodes-in-pairs/description/", difficulty: "Medium", done: false }
+    ]
   }
 ];
 
