@@ -75,7 +75,20 @@ const PatternData = [
       { id: "p46", name: "Delete N Nodes After M Nodes of a Linked List", link: "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/description/", difficulty: "Easy", done: false },
       { id: "p47", name: "Swap Nodes in Pairs", link: "https://leetcode.com/problems/swap-nodes-in-pairs/description/", difficulty: "Medium", done: false }
     ]
-  }
+  },
+  {
+    id: 6,
+    name: "Heaps",
+    problems: [
+      { id: "p48", name: "IPO", link: "https://leetcode.com/problems/ipo/", difficulty: "Hard", done: false },
+      { id: "p49", name: "Find Median from Data Stream", link: "https://leetcode.com/problems/find-median-from-data-stream/", difficulty: "Hard", done: false },
+      { id: "p50", name: "Sliding Window Median", link: "https://leetcode.com/problems/sliding-window-median/", difficulty: "Hard", done: false },
+      { id: "p51", name: "Task Scheduler", link: "https://leetcode.com/problems/task-scheduler/description/", difficulty: "Medium", done: false },
+      { id: "p52", name: "Meeting Rooms III", link: "https://leetcode.com/problems/meeting-rooms-iii/", difficulty: "Hard", done: false },
+      { id: "p53", name: "Largest Number After Digit Swaps by Parity", link: "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/", difficulty: "Easy", done: false },
+      { id: "p54", name: "Find Right Interval", link: "https://leetcode.com/problems/find-right-interval/", difficulty: "Medium", done: false }
+    ]
+  },
 ];
 
 export default PatternData;
