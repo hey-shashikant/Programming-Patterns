@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 20.15.1
+          node-version: 20
 
       - name: Install Dependencies
         run: npm install
@@ -24,8 +24,13 @@ jobs:
       - name: Build Project
         run: npm run build
 
+      - name: Configure Git for Deployment
+        run: |
+          git config --global user.email "shashikantsolanki041@gmail.com"
+          git config --global user.name "hey-shashikant"
+
       - name: Deploy to GitHub Pages
         run: npm run deploy
         env:
           CI: true
-          GH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
