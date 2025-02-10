@@ -89,6 +89,17 @@ const PatternData = [
       { id: "p54", name: "Find Right Interval", link: "https://leetcode.com/problems/find-right-interval/", difficulty: "Medium", done: false }
     ]
   },
+  {
+  id: 7,
+  name: "K-Way Merge",
+  problems: [
+    { id: "p55", name: "Merge Sorted Array", link: "https://leetcode.com/problems/merge-sorted-array/", difficulty: "Easy", done: false },
+    { id: "p56", name: "Kth Smallest Number in M Sorted Lists", link: "https://medium.com/data-structures-and-algorithms-dsa/kth-smallest-number-in-m-sorted-lists-0bcb90c55e17", difficulty: "Medium", done: false },
+    { id: "p57", name: "Find K Pairs with Smallest Sums", link: "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/", difficulty: "Medium", done: false },
+    { id: "p58", name: "Merge K Sorted Lists", link: "https://leetcode.com/problems/merge-k-sorted-lists/", difficulty: "Hard", done: false },
+    { id: "p59", name: "Kth Smallest Element in a Sorted Matrix", link: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/", difficulty: "Medium", done: false }
+  ]
+},
 ];
 
 export default PatternData;
