@@ -133,6 +133,17 @@ const PatternData = [
     { id: "p80", name: "Split Array Largest Sum", link: "https://leetcode.com/problems/split-array-largest-sum/description/", difficulty: "Hard", done: false },
     { id: "p81", name: "Search in Rotated Sorted Array II", link: "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/", difficulty: "Medium", done: false }
   ]
+},
+{
+  id: 10,
+  name: "Subsets",
+  problems: [
+    { id: "p82", name: "Subsets", link: "https://leetcode.com/problems/subsets/description/", difficulty: "Medium", done: false },
+    { id: "p83", name: "Permutations", link: "https://leetcode.com/problems/permutations/description/", difficulty: "Medium", done: false },
+    { id: "p84", name: "Letter Combinations of a Phone Number", link: "https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/", difficulty: "Medium", done: false },
+    { id: "p85", name: "Generate Parentheses", link: "https://leetcode.com/problems/generate-parentheses/description/", difficulty: "Medium", done: false },
+    { id: "p86", name: "Find K-Sum Subsets", link: "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/", difficulty: "Medium", done: false }
+  ]
 }
 ];
 
