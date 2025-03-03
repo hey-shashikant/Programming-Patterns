@@ -97,7 +97,9 @@ const PatternData = [
     { id: "p56", name: "Kth Smallest Number in M Sorted Lists", link: "https://medium.com/data-structures-and-algorithms-dsa/kth-smallest-number-in-m-sorted-lists-0bcb90c55e17", difficulty: "Medium", done: false },
     { id: "p57", name: "Find K Pairs with Smallest Sums", link: "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/", difficulty: "Medium", done: false },
     { id: "p58", name: "Merge K Sorted Lists", link: "https://leetcode.com/problems/merge-k-sorted-lists/", difficulty: "Hard", done: false },
-    { id: "p59", name: "Kth Smallest Element in a Sorted Matrix", link: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/", difficulty: "Medium", done: false }
+    { id: "p59", name: "Kth Smallest Element in a Sorted Matrix", link: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/", difficulty: "Medium", done: false },
+    { id: "p60", name: "K-th Smallest Prime Fraction", link: "https://leetcode.com/problems/k-th-smallest-prime-fraction/description/", difficulty: "Medium", done: false },
+    { id: "p61", name: "Super Ugly Number", link: "https://leetcode.com/problems/super-ugly-number/description/", difficulty: "Medium", done: false }
   ]
 },
 ];
