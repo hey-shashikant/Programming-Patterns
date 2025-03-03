@@ -102,6 +102,22 @@ const PatternData = [
     { id: "p61", name: "Super Ugly Number", link: "https://leetcode.com/problems/super-ugly-number/description/", difficulty: "Medium", done: false }
   ]
 },
+{
+  id: 8,
+  name: "Top K Elements",
+  problems: [
+    { id: "p62", name: "Kth Largest Element in a Stream", link: "https://leetcode.com/problems/kth-largest-element-in-a-stream/description/", difficulty: "Easy", done: false },
+    { id: "p63", name: "Reorganize String", link: "https://leetcode.com/problems/reorganize-string/description/", difficulty: "Medium", done: false },
+    { id: "p64", name: "K Closest Points to Origin", link: "https://leetcode.com/problems/k-closest-points-to-origin/description/", difficulty: "Medium", done: false },
+    { id: "p65", name: "Top K Frequent Elements", link: "https://leetcode.com/problems/top-k-frequent-elements/description/", difficulty: "Medium", done: false },
+    { id: "p66", name: "Kth Largest Element in an Array", link: "https://leetcode.com/problems/kth-largest-element-in-an-array/description/", difficulty: "Medium", done: false },
+    { id: "p67", name: "Third Maximum Number", link: "https://leetcode.com/problems/third-maximum-number/description/", difficulty: "Easy", done: false },
+    { id: "p68", name: "Find Subsequence of Length K with the Largest Sum", link: "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/", difficulty: "Easy", done: false },
+    { id: "p69", name: "Minimum Cost to Hire K Workers", link: "https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/", difficulty: "Hard", done: false },
+    { id: "p70", name: "Maximal Score After Applying K Operations", link: "https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/", difficulty: "Medium", done: false },
+    { id: "p71", name: "Find the Kth Largest Integer in the Array", link: "https://leetcode.com/problems/kth-largest-element-in-an-array/", difficulty: "Medium", done: false }
+  ]
+}
 ];
 
 export default PatternData;
