@@ -144,6 +144,25 @@ const PatternData = [
     { id: "p85", name: "Generate Parentheses", link: "https://leetcode.com/problems/generate-parentheses/description/", difficulty: "Medium", done: false },
     { id: "p86", name: "Find K-Sum Subsets", link: "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/", difficulty: "Medium", done: false }
   ]
+},
+{
+  id: 11,
+  name: "Greedy",
+  problems: [
+    { id: "p87", name: "Jump Game", link: "https://leetcode.com/problems/jump-game/description/", difficulty: "Medium", done: false },
+    { id: "p88", name: "Boats to Save People", link: "https://leetcode.com/problems/boats-to-save-people/description/", difficulty: "Medium", done: false },
+    { id: "p89", name: "Gas Station", link: "https://leetcode.com/problems/gas-station/description/", difficulty: "Medium", done: false },
+    { id: "p90", name: "Two City Scheduling", link: "https://leetcode.com/problems/two-city-scheduling/description/", difficulty: "Medium", done: false },
+    { id: "p91", name: "Minimum Number of Refueling Stops", link: "https://leetcode.com/problems/minimum-number-of-refueling-stops/description/", difficulty: "Hard", done: false },
+    { id: "p92", name: "Largest Palindromic Number", link: "https://leetcode.com/problems/largest-palindromic-number/description/", difficulty: "Medium", done: false },
+    { id: "p93", name: "Assign Cookies", link: "https://leetcode.com/problems/assign-cookies/description/", difficulty: "Easy", done: false },
+    { id: "p94", name: "Rearranging Fruits", link: "https://leetcode.com/problems/rearranging-fruits/description/", difficulty: "Hard", done: false },
+    { id: "p95", name: "Number of Steps to Reduce a Binary Number to One", link: "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/", difficulty: "Medium", done: false },
+    { id: "p96", name: "Maximum Swap", link: "https://leetcode.com/problems/maximum-swap/description/", difficulty: "Medium", done: false },
+    { id: "p97", name: "Can Place Flowers", link: "https://leetcode.com/problems/can-place-flowers/description/", difficulty: "Medium", done: false },
+    { id: "p98", name: "Largest Odd Number in String", link: "https://leetcode.com/problems/largest-odd-number-in-string/description/", difficulty: "Easy", done: false },
+    { id: "p99", name: "Jump Game II", link: "https://leetcode.com/problems/jump-game-ii/description/", difficulty: "Medium", done: false }
+  ]
 }
 ];
 
