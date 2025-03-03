@@ -117,6 +117,22 @@ const PatternData = [
     { id: "p70", name: "Maximal Score After Applying K Operations", link: "https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/", difficulty: "Medium", done: false },
     { id: "p71", name: "Find the Kth Largest Integer in the Array", link: "https://leetcode.com/problems/kth-largest-element-in-an-array/", difficulty: "Medium", done: false }
   ]
+},
+{
+  id: 9,
+  name: "Binary Search",
+  problems: [
+    { id: "p72", name: "Binary Search", link: "https://leetcode.com/problems/binary-search/", difficulty: "Easy", done: false },
+    { id: "p73", name: "Search in Rotated Sorted Array", link: "https://leetcode.com/problems/search-in-rotated-sorted-array/description/", difficulty: "Medium", done: false },
+    { id: "p74", name: "First Bad Version", link: "https://leetcode.com/problems/first-bad-version/description/", difficulty: "Easy", done: false },
+    { id: "p75", name: "Random Pick with Weight", link: "https://leetcode.com/problems/random-pick-with-weight/description/", difficulty: "Medium", done: false },
+    { id: "p76", name: "Find K Closest Elements", link: "https://leetcode.com/problems/find-k-closest-elements/description/", difficulty: "Medium", done: false },
+    { id: "p77", name: "Single Element in a Sorted Array", link: "https://leetcode.com/problems/single-element-in-a-sorted-array/description/", difficulty: "Medium", done: false },
+    { id: "p78", name: "Maximum Value at a Given Index in a Bounded Array", link: "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/description/", difficulty: "Medium", done: false },
+    { id: "p79", name: "The K Weakest Rows in a Matrix", link: "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/", difficulty: "Easy", done: false },
+    { id: "p80", name: "Split Array Largest Sum", link: "https://leetcode.com/problems/split-array-largest-sum/description/", difficulty: "Hard", done: false },
+    { id: "p81", name: "Search in Rotated Sorted Array II", link: "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/", difficulty: "Medium", done: false }
+  ]
 }
 ];
 
