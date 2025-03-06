@@ -1,7 +1,8 @@
 import { useState, useEffect } from "react";
 import PatternData from "../../data/PatternData";
 import { CheckCircleIcon, ExclamationCircleIcon, XCircleIcon } from "@heroicons/react/24/solid";
-
+import { StarIcon as SolidStar } from "@heroicons/react/24/solid";
+import { StarIcon as OutlineStar } from "@heroicons/react/24/outline";
 
 const difficultyIcons = {
   Easy: <CheckCircleIcon className="w-5 h-5 text-green-500 inline-block" />,
@@ -14,12 +15,27 @@ const PatternList = ({ selectedCategory }) => {
     JSON.parse(localStorage.getItem("completedProblems")) || {}
   );
 
+  const [revisionProblems, setRevisionProblems] = useState(
+    JSON.parse(localStorage.getItem("revisionProblems")) || {}
+  );
+
   useEffect(() => {
     localStorage.setItem("completedProblems", JSON.stringify(completedProblems));
   }, [completedProblems]);
 
+  useEffect(() => {
+    localStorage.setItem("revisionProblems", JSON.stringify(revisionProblems));
+  }, [revisionProblems]);
+
   const toggleCompletion = (problemId) => {
     setCompletedProblems((prev) => ({
+      ...prev,
+      [problemId]: !prev[problemId],
+    }));
+  };
+
+  const toggleRevision = (problemId) => {
+    setRevisionProblems((prev) => ({
       ...prev,
       [problemId]: !prev[problemId],
     }));
@@ -41,6 +57,7 @@ const PatternList = ({ selectedCategory }) => {
                   <th className="p-3 text-left text-gray-900 dark:text-gray-200">Problem Name</th>
                   <th className="p-3 text-left text-gray-900 dark:text-gray-200">Difficulty</th>
                   <th className="p-3 text-left text-gray-900 dark:text-gray-200">Status</th>
+                  <th className="p-3 text-left text-gray-900 dark:text-gray-200">Revision</th>
                 </tr>
               </thead>
               <tbody>
@@ -72,6 +89,16 @@ const PatternList = ({ selectedCategory }) => {
                       ) : (
                         <span className="text-gray-500">Pending</span>
                       )}
+                    </td>
+
+                    <td className="p-3">
+                      <button onClick={() => toggleRevision(problem.id)}>
+                        {revisionProblems[problem.id] ? (
+                          <SolidStar className="w-5 h-5 text-yellow-500" />
+                        ) : (
+                          <OutlineStar className="w-5 h-5 text-gray-400" />
+                        )}
+                      </button>
                     </td>
                   </tr>
                 ))}

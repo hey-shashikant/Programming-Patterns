@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { CheckCircleIcon } from "lucide-react";
+import { StarIcon } from "lucide-react"; // Import StarIcon
 
 const difficultyColors = {
   Easy: "bg-green-500",
@@ -12,6 +12,7 @@ const ProblemRow = ({ problem }) => {
 
   return (
     <tr className="border-b border-gray-300 dark:border-gray-600 hover:bg-gray-100 dark:hover:bg-gray-700">
+      {/* Checkbox and Problem Link */}
       <td className="p-3 flex items-center">
         <input 
           type="checkbox" 
@@ -23,13 +24,26 @@ const ProblemRow = ({ problem }) => {
           {problem.name}
         </a>
       </td>
+
+      {/* Difficulty */}
       <td className="p-3">
         <span className={`px-2 py-1 text-xs font-bold text-white rounded-full ${difficultyColors[problem.difficulty]}`}>
           {problem.difficulty}
         </span>
       </td>
-      <td className="p-3 text-green-600 dark:text-green-400">
-        {done && <CheckCircleIcon className="w-5 h-5" />}
+
+      {/* Status - Keep existing Completed/Pending status logic */}
+      <td className="p-3">
+        {done ? (
+          <span className="text-green-600 dark:text-green-400">Completed</span>
+        ) : (
+          <span className="text-gray-600 dark:text-gray-400">Pending</span>
+        )}
+      </td>
+
+      {/* Revision Column - Show Star if revision=true */}
+      <td className="p-3 text-yellow-500">
+        {problem.revision && <StarIcon className="w-5 h-5 fill-yellow-500" />}
       </td>
     </tr>
   );
