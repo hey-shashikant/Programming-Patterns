@@ -202,6 +202,30 @@ const PatternData = [
     { id: "p125", name: "Count the Number of Good Subsequences", link: "https://leetcode.com/problems/number-of-unique-good-subsequences/", difficulty: "Hard", done: false },
     { id: "p126", name: "Climbing Stairs", link: "https://leetcode.com/problems/climbing-stairs/description/", difficulty: "Easy", done: false }
   ]
+},
+{
+  id: 14,
+  name: "Cyclic Sort",
+  problems: [
+    { id: "p127", name: "Missing Number", link: "https://leetcode.com/problems/missing-number/", difficulty: "Easy", done: false },
+    { id: "p128", name: "First Missing Positive", link: "https://leetcode.com/problems/first-missing-positive/", difficulty: "Hard", done: false },
+    { id: "p129", name: "Find the Corrupt Pair", link: "https://leetcode.com/problems/count-number-of-bad-pairs/description/", difficulty: "Medium", done: false },
+    { id: "p130", name: "Find the First K Missing Positive Numbers", link: "https://leetcode.com/problems/kth-missing-positive-number/", difficulty: "Easy", done: false },
+    { id: "p131", name: "Sort Array By Parity II", link: "https://leetcode.com/problems/sort-array-by-parity-ii/description/", difficulty: "Easy", done: false }
+  ]
+},
+{
+  id: 15,
+  name: "Topological Sort",
+  problems: [
+    { id: "p132", name: "Course Schedule", link: "https://leetcode.com/problems/course-schedule/description/", difficulty: "Medium", done: false },
+    { id: "p133", name: "Alien Dictionary", link: "https://leetcode.com/problems/alien-dictionary/description/", difficulty: "Hard", done: false },
+    { id: "p134", name: "Verifying an Alien Dictionary", link: "https://leetcode.com/problems/verifying-an-alien-dictionary/", difficulty: "Easy", done: false },
+    { id: "p135", name: "Course Schedule II", link: "https://leetcode.com/problems/course-schedule-ii/description/", difficulty: "Medium", done: false },
+    { id: "p136", name: "Build a Matrix with Conditions", link: "https://leetcode.com/problems/build-a-matrix-with-conditions/", difficulty: "Hard", done: false },
+    { id: "p137", name: "Longest Path With Different Adjacent Characters", link: "https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/", difficulty: "Hard", done: false },
+    { id: "p138", name: "Find All Possible Recipes from Given Supplies", link: "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/", difficulty: "Medium", done: false }
+  ]
 }
 ];
 
