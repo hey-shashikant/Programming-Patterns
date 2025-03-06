@@ -163,6 +163,23 @@ const PatternData = [
     { id: "p98", name: "Largest Odd Number in String", link: "https://leetcode.com/problems/largest-odd-number-in-string/description/", difficulty: "Easy", done: false },
     { id: "p99", name: "Jump Game II", link: "https://leetcode.com/problems/jump-game-ii/description/", difficulty: "Medium", done: false }
   ]
+},
+{
+  id: 12,
+  name: "Backtracking",
+  problems: [
+    { id: "p100", name: "N-Queens", link: "https://leetcode.com/problems/n-queens/", difficulty: "Hard", done: false },
+    { id: "p101", name: "Word Search", link: "https://leetcode.com/problems/word-search/description/", difficulty: "Medium", done: false },
+    { id: "p102", name: "House Robber III", link: "https://leetcode.com/problems/house-robber-iii/description/", difficulty: "Medium", done: false },
+    { id: "p103", name: "Restore IP Addresses", link: "https://leetcode.com/problems/restore-ip-addresses/", difficulty: "Medium", done: false },
+    { id: "p104", name: "Flood Fill", link: "https://leetcode.com/problems/flood-fill/", difficulty: "Easy", done: false },
+    { id: "p105", name: "Minimum Moves to Spread Stones Over Grid", link: "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/description/", difficulty: "Medium", done: false },
+    { id: "p106", name: "Binary Tree Paths", link: "https://leetcode.com/problems/binary-tree-paths/description/", difficulty: "Easy", done: false },
+    { id: "p107", name: "Binary Watch", link: "https://leetcode.com/problems/binary-watch/description/", difficulty: "Easy", done: false },
+    { id: "p108", name: "Optimal Account Balancing", link: "https://leetcode.com/problems/optimal-account-balancing/description/", difficulty: "Hard", done: false },
+    { id: "p109", name: "Sudoku Solver", link: "https://leetcode.com/problems/sudoku-solver/description/", difficulty: "Hard", done: false },
+    { id: "p110", name: "Matchsticks to Square", link: "https://leetcode.com/problems/matchsticks-to-square/description/", difficulty: "Medium", done: false }
+  ]
 }
 ];
 
