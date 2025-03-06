@@ -226,6 +226,26 @@ const PatternData = [
     { id: "p137", name: "Longest Path With Different Adjacent Characters", link: "https://leetcode.com/problems/longest-path-with-different-adjacent-characters/description/", difficulty: "Hard", done: false },
     { id: "p138", name: "Find All Possible Recipes from Given Supplies", link: "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/", difficulty: "Medium", done: false }
   ]
+},
+{
+  id: 16,
+  name: "Sort and Search",
+  problems: [
+    { id: "p139", name: "Find the Distance Value Between Two Arrays", link: "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/", difficulty: "Easy", done: false },
+    { id: "p140", name: "Longest Subsequence With Limited Sum", link: "https://leetcode.com/problems/longest-subsequence-with-limited-sum/", difficulty: "Easy", done: false },
+    { id: "p141", name: "Find Target Indices After Sorting Array", link: "https://leetcode.com/problems/find-target-indices-after-sorting-array/description/", difficulty: "Easy", done: false },
+    { id: "p142", name: "Count Pairs in Two Arrays", link: "https://leetcode.com/problems/count-pairs-in-two-arrays/description/", difficulty: "Medium", done: false },
+    { id: "p143", name: "Valid Triangle Number", link: "https://leetcode.com/problems/valid-triangle-number/", difficulty: "Medium", done: false },
+    { id: "p144", name: "Minimum Operations to Make All Array Elements Equal", link: "https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/", difficulty: "Medium", done: false },
+    { id: "p145", name: "Sum of Mutated Array Closest to Target", link: "https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/", difficulty: "Medium", done: false },
+    { id: "p146", name: "Range Sum of Sorted Subarray Sums", link: "https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/", difficulty: "Medium", done: false },
+    { id: "p147", name: "Magnetic Force Between Two Balls", link: "https://leetcode.com/problems/magnetic-force-between-two-balls/description/", difficulty: "Medium", done: false },
+    { id: "p148", name: "Find K-th Smallest Pair Distance", link: "https://leetcode.com/problems/find-k-th-smallest-pair-distance/", difficulty: "Hard", done: false },
+    { id: "p149", name: "Minimum Space Wasted from Packaging", link: "https://leetcode.com/problems/minimum-space-wasted-from-packaging/", difficulty: "Hard", done: false },
+    { id: "p150", name: "Russian Doll Envelopes", link: "https://leetcode.com/problems/russian-doll-envelopes/", difficulty: "Medium", done: false },
+    { id: "p151", name: "Two Sum Less Than K", link: "https://leetcode.com/problems/two-sum-less-than-k/description/", difficulty: "Hard", done: false },
+    { id: "p152", name: "Maximum Number of Integers to Choose from a Range I", link: "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/", difficulty: "Medium", done: false }
+  ]
 }
 ];
 
