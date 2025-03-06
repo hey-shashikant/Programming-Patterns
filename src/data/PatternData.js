@@ -180,6 +180,28 @@ const PatternData = [
     { id: "p109", name: "Sudoku Solver", link: "https://leetcode.com/problems/sudoku-solver/description/", difficulty: "Hard", done: false },
     { id: "p110", name: "Matchsticks to Square", link: "https://leetcode.com/problems/matchsticks-to-square/description/", difficulty: "Medium", done: false }
   ]
+},
+{
+  id: 13,
+  name: "Dynamic Programming",
+  problems: [
+    { id: "p111", name: "0/1 Knapsack", link: "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card", difficulty: "Medium", done: false },
+    { id: "p112", name: "Coin Change", link: "https://leetcode.com/problems/coin-change/description/", difficulty: "Medium", done: false },
+    { id: "p113", name: "N-th Tribonacci Number", link: "https://leetcode.com/problems/n-th-tribonacci-number/", difficulty: "Easy", done: false },
+    { id: "p114", name: "Partition Equal Subset Sum", link: "https://leetcode.com/problems/partition-equal-subset-sum/description/", difficulty: "Medium", done: false },
+    { id: "p115", name: "Counting Bits", link: "https://leetcode.com/problems/counting-bits/description/", difficulty: "Easy", done: false },
+    { id: "p116", name: "01 Matrix", link: "https://leetcode.com/problems/01-matrix/description/", difficulty: "Medium", done: false },
+    { id: "p117", name: "House Robber II", link: "https://leetcode.com/problems/house-robber-ii/description/", difficulty: "Medium", done: false },
+    { id: "p118", name: "Maximum Product Subarray", link: "https://leetcode.com/problems/maximum-product-subarray/", difficulty: "Medium", done: false },
+    { id: "p119", name: "Combination Sum", link: "https://leetcode.com/problems/combination-sum/", difficulty: "Medium", done: false },
+    { id: "p120", name: "Word Break", link: "https://leetcode.com/problems/word-break/description/", difficulty: "Medium", done: false },
+    { id: "p121", name: "Palindromic Substrings", link: "https://leetcode.com/problems/palindromic-substrings/", difficulty: "Medium", done: false },
+    { id: "p122", name: "Longest Common Subsequence", link: "https://leetcode.com/problems/longest-common-subsequence/", difficulty: "Medium", done: false },
+    { id: "p123", name: "Word Break II", link: "https://leetcode.com/problems/word-break-ii/", difficulty: "Hard", done: false },
+    { id: "p124", name: "Decode Ways", link: "https://leetcode.com/problems/decode-ways/", difficulty: "Medium", done: false },
+    { id: "p125", name: "Count the Number of Good Subsequences", link: "https://leetcode.com/problems/number-of-unique-good-subsequences/", difficulty: "Hard", done: false },
+    { id: "p126", name: "Climbing Stairs", link: "https://leetcode.com/problems/climbing-stairs/description/", difficulty: "Easy", done: false }
+  ]
 }
 ];
 
