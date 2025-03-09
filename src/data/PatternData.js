@@ -389,6 +389,42 @@ const PatternData = [
     { id: "p246", name: "Task Scheduler", link: "https://leetcode.com/problems/task-scheduler/description/", difficulty: "Medium", done: false },
     { id: "p247", name: "Ransom Note", link: "https://leetcode.com/problems/ransom-note/", difficulty: "Easy", done: false }
   ]
+},
+{
+  id: 25,
+  name: "Union Find",
+  problems: [
+    { id: "p248", name: "Redundant Connection", link: "https://leetcode.com/problems/redundant-connection/description/", difficulty: "Medium", done: false },
+    { id: "p249", name: "Number of Islands", link: "https://leetcode.com/problems/number-of-islands/description/", difficulty: "Medium", done: false },
+    { id: "p250", name: "Most Stones Removed with Same Row or Column", link: "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/", difficulty: "Medium", done: false },
+    { id: "p251", name: "Longest Consecutive Sequence", link: "https://leetcode.com/problems/longest-consecutive-sequence/", difficulty: "Medium", done: false },
+    { id: "p252", name: "Last Day Where You Can Still Cross", link: "https://leetcode.com/problems/last-day-where-you-can-still-cross/description/", difficulty: "Hard", done: false },
+    { id: "p253", name: "Regions Cut by Slashes", link: "https://leetcode.com/problems/regions-cut-by-slashes/", difficulty: "Medium", done: false },
+    { id: "p254", name: "Accounts Merge", link: "https://leetcode.com/problems/accounts-merge/description/", difficulty: "Medium", done: false },
+    { id: "p255", name: "Minimize Malware Spread", link: "https://leetcode.com/problems/minimize-malware-spread/", difficulty: "Hard", done: false },
+    { id: "p256", name: "Find if Path Exists in Graph", link: "https://leetcode.com/problems/find-if-path-exists-in-graph/description/", difficulty: "Easy", done: false },
+    { id: "p257", name: "The Skyline Problem", link: "https://leetcode.com/problems/the-skyline-problem/description/", difficulty: "Hard", done: false },
+    { id: "p258", name: "Evaluate Division", link: "https://leetcode.com/problems/evaluate-division/description/", difficulty: "Medium", done: false }
+  ]
+},
+{
+  id: 26,
+  name: "Custom Data Structures",
+  problems: [
+    { id: "p259", name: "Snapshot Array", link: "https://leetcode.com/problems/snapshot-array/description/", difficulty: "Medium", done: false },
+    { id: "p260", name: "Time Based Key-Value Store", link: "https://leetcode.com/problems/time-based-key-value-store/description/", difficulty: "Medium", done: false },
+    { id: "p261", name: "LRU Cache", link: "https://leetcode.com/problems/lru-cache/description/", difficulty: "Hard", done: false },
+    { id: "p262", name: "Insert Delete GetRandom O(1)", link: "https://leetcode.com/problems/insert-delete-getrandom-o1/description/", difficulty: "Medium", done: false },
+    { id: "p263", name: "Min Stack", link: "https://leetcode.com/problems/min-stack/description/", difficulty: "Medium", done: false },
+    { id: "p264", name: "Range Module", link: "https://leetcode.com/problems/range-module/description/", difficulty: "Hard", done: false },
+    { id: "p265", name: "Shortest Word Distance II", link: "https://leetcode.com/problems/shortest-word-distance-ii/description/", difficulty: "Hard", done: false },
+    { id: "p266", name: "Design HashSet", link: "https://leetcode.com/problems/design-hashset/description/", difficulty: "Easy", done: false },
+    { id: "p267", name: "Max Stack", link: "https://leetcode.com/problems/max-stack/description/", difficulty: "Hard", done: false },
+    { id: "p268", name: "Moving Average from Data Stream", link: "https://leetcode.com/problems/moving-average-from-data-stream/description/", difficulty: "Hard", done: false },
+    { id: "p269", name: "Two Sum III - Data structure design", link: "https://leetcode.com/problems/two-sum-iii-data-structure-design/description/", difficulty: "Hard", done: false },
+    { id: "p270", name: "Range Sum Query - Immutable", link: "https://leetcode.com/problems/range-sum-query-immutable/description/", difficulty: "Easy", done: false },
+    { id: "p271", name: "LFU Cache", link: "https://leetcode.com/problems/lfu-cache/description/", difficulty: "Hard", done: false }
+  ]
 }
 ];
 
