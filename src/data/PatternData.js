@@ -297,6 +297,42 @@ const PatternData = [
     { id: "p184", name: "Lucky Numbers in a Matrix", link: "https://leetcode.com/problems/lucky-numbers-in-a-matrix/", difficulty: "Easy", done: false },
     { id: "p185", name: "Path with Maximum Probability", link: "https://leetcode.com/problems/path-with-maximum-probability/description/", difficulty: "Medium", done: false }
   ]
+},
+{
+  id: 20,
+  name: "Tree - Depth First Search",
+  problems: [
+    { id: "p186", name: "Flatten Binary Tree to Linked List", link: "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/", difficulty: "Medium", done: false },
+    { id: "p187", name: "Diameter of Binary Tree", link: "https://leetcode.com/problems/diameter-of-binary-tree/description/", difficulty: "Easy", done: false },
+    { id: "p188", name: "Serialize and Deserialize Binary Tree", link: "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/", difficulty: "Hard", done: false },
+    { id: "p189", name: "Invert Binary Tree", link: "https://leetcode.com/problems/invert-binary-tree/description/", difficulty: "Easy", done: false },
+    { id: "p190", name: "Binary Tree Maximum Path Sum", link: "https://leetcode.com/problems/binary-tree-maximum-path-sum/description/", difficulty: "Hard", done: false },
+    { id: "p191", name: "Convert Sorted Array to Binary Search Tree", link: "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/", difficulty: "Easy", done: false },
+    { id: "p192", name: "Build Binary Tree from Preorder and Inorder Traversal", link: "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/", difficulty: "Medium", done: false },
+    { id: "p193", name: "Binary Tree Right Side View", link: "https://leetcode.com/problems/binary-tree-right-side-view/description/", difficulty: "Medium", done: false },
+    { id: "p194", name: "Lowest Common Ancestor of a Binary Tree", link: "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/", difficulty: "Medium", done: false },
+    { id: "p195", name: "Validate Binary Search Tree", link: "https://leetcode.com/problems/validate-binary-search-tree/description/", difficulty: "Medium", done: false },
+    { id: "p196", name: "Nested List Weight Sum II", link: "https://leetcode.com/problems/nested-list-weight-sum-ii/description/", difficulty: "Hard", done: false },
+    { id: "p197", name: "Inorder Successor in BST", link: "https://leetcode.com/problems/inorder-successor-in-bst/description/", difficulty: "Hard", done: false },
+    { id: "p198", name: "Height of Binary Tree After Subtree Removal Queries", link: "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/", difficulty: "Hard", done: false },
+    { id: "p199", name: "Delete Nodes And Return Forest", link: "https://leetcode.com/problems/delete-nodes-and-return-forest/", difficulty: "Medium", done: false },
+    { id: "p200", name: "Maximum Depth of Binary Tree", link: "https://leetcode.com/problems/maximum-depth-of-binary-tree/", difficulty: "Easy", done: false },
+    { id: "p201", name: "Kth Smallest Element in a BST", link: "https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/", difficulty: "Medium", done: false }
+  ]
+},
+{
+  id: 21,
+  name: "Tree - Breadth First Search",
+  problems: [
+    { id: "p202", name: "Binary Tree Level Order Traversal", link: "https://leetcode.com/problems/binary-tree-level-order-traversal/description/", difficulty: "Medium", done: false },
+    { id: "p203", name: "Binary Tree Zigzag Level Order Traversal", link: "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/", difficulty: "Medium", done: false },
+    { id: "p204", name: "Populating Next Right Pointers in Each Node", link: "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/", difficulty: "Medium", done: false },
+    { id: "p205", name: "Vertical Order Traversal of a Binary Tree", link: "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/", difficulty: "Hard", done: false },
+    { id: "p206", name: "Symmetric Tree", link: "https://leetcode.com/problems/symmetric-tree/", difficulty: "Easy", done: false },
+    { id: "p207", name: "Word Ladder", link: "https://leetcode.com/problems/word-ladder/description/", difficulty: "Hard", done: false },
+    { id: "p208", name: "Two Sum IV – Input Is a BST", link: "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/", difficulty: "Easy", done: false },
+    { id: "p209", name: "Connect All Siblings of a Binary Tree", link: "https://medium.com/data-structures-and-algorithms-dsa/connect-all-siblings-of-a-binary-tree-25f34f968ad3", difficulty: "Medium", done: false }
+  ]
 }
 ];
 
