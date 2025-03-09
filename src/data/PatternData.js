@@ -466,6 +466,51 @@ const PatternData = [
     { id: "p299", name: "Minimum Number of Lines to Cover Points", link: "https://www.geeksforgeeks.org/minimum-lines-cover-points/", difficulty: "Hard", done: false },
     { id: "p300", name: "Detonate the Maximum Bombs", link: "https://leetcode.com/problems/detonate-the-maximum-bombs/description/", difficulty: "Medium", done: false }
   ]
+},
+{
+  id: 29,
+  name: "Challenge Yourself!",
+  problems: [
+    { id: "p301", name: "Shortest Bridge", link: "https://leetcode.com/problems/shortest-bridge/", difficulty: "Medium", done: false },
+    { id: "p302", name: "Number of Connected Components in an Undirected Graph", link: "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/", difficulty: "Hard", done: false },
+    { id: "p303", name: "Median of Two Sorted Arrays", link: "https://leetcode.com/problems/median-of-two-sorted-arrays/", difficulty: "Hard", done: false },
+    { id: "p304", name: "Pacific Atlantic Water Flow", link: "https://leetcode.com/problems/pacific-atlantic-water-flow/description/", difficulty: "Medium", done: false },
+    { id: "p305", name: "Contains Duplicate", link: "https://leetcode.com/problems/contains-duplicate/description/", difficulty: "Easy", done: false },
+    { id: "p306", name: "Maximum Subarray", link: "https://leetcode.com/problems/maximum-subarray/description/", difficulty: "Medium", done: false },
+    { id: "p307", name: "Two Sum", link: "https://leetcode.com/problems/two-sum/", difficulty: "Easy", done: false },
+    { id: "p308", name: "Find Minimum in Rotated Sorted Array", link: "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/", difficulty: "Medium", done: false },
+    { id: "p309", name: "Non-overlapping Intervals", link: "https://leetcode.com/problems/non-overlapping-intervals/", difficulty: "Medium", done: false },
+    { id: "p310", name: "Meeting Rooms", link: "https://leetcode.com/problems/meeting-rooms/", difficulty: "Hard", done: false },
+    { id: "p311", name: "Largest Rectangle in Histogram", link: "https://leetcode.com/problems/largest-rectangle-in-histogram/", difficulty: "Hard", done: false },
+    { id: "p312", name: "Subtree of Another Tree", link: "https://leetcode.com/problems/subtree-of-another-tree/", difficulty: "Easy", done: false },
+    { id: "p313", name: "Sort List", link: "https://leetcode.com/problems/sort-list/", difficulty: "Medium", done: false },
+    { id: "p314", name: "Number of 1 Bits", link: "https://leetcode.com/problems/number-of-1-bits/", difficulty: "Easy", done: false },
+    { id: "p315", name: "Container with Most Water", link: "https://leetcode.com/problems/container-with-most-water/", difficulty: "Medium", done: false },
+    { id: "p316", name: "Evaluate Reverse Polish Notation", link: "https://leetcode.com/problems/evaluate-reverse-polish-notation/description/", difficulty: "Medium", done: false },
+    { id: "p317", name: "4Sum", link: "https://leetcode.com/problems/4sum/", difficulty: "Medium", done: false },
+    { id: "p318", name: "Loud and Rich", link: "https://leetcode.com/problems/loud-and-rich/", difficulty: "Medium", done: false },
+    { id: "p319", name: "Product of Array Except Self", link: "https://leetcode.com/problems/product-of-array-except-self/description/", difficulty: "Medium", done: false },
+    { id: "p320", name: "Longest Increasing Subsequence", link: "https://leetcode.com/problems/longest-increasing-subsequence/", difficulty: "Medium", done: false },
+    { id: "p321", name: "Sum of Two Integers", link: "https://leetcode.com/problems/sum-of-two-integers/", difficulty: "Medium", done: false },
+    { id: "p322", name: "Majority Element", link: "https://leetcode.com/problems/majority-element/", difficulty: "Easy", done: false },
+    { id: "p323", name: "Unique Paths", link: "https://leetcode.com/problems/unique-paths/description/", difficulty: "Medium", done: false },
+    { id: "p324", name: "Longest Palindromic Substring", link: "https://leetcode.com/problems/longest-palindromic-substring/", difficulty: "Medium", done: false },
+    { id: "p325", name: "Permutations II", link: "https://leetcode.com/problems/permutations-ii/", difficulty: "Medium", done: false },
+    { id: "p326", name: "Number of Provinces", link: "https://leetcode.com/problems/number-of-provinces/", difficulty: "Medium", done: false },
+    { id: "p327", name: "Linked List Cycle II", link: "https://leetcode.com/problems/linked-list-cycle-ii/", difficulty: "Medium", done: false },
+    { id: "p328", name: "Minimum Flips to Make the Binary String Alternate", link: "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/", difficulty: "Medium", done: false },
+    { id: "p329", name: "Lemonade Change", link: "https://leetcode.com/problems/lemonade-change/", difficulty: "Easy", done: false },
+    { id: "p330", name: "House Robber", link: "https://leetcode.com/problems/house-robber/", difficulty: "Medium", done: false },
+    { id: "p331", name: "Find All Numbers Disappeared in an Array", link: "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/", difficulty: "Easy", done: false },
+    { id: "p332", name: "Find All Duplicates in an Array", link: "https://leetcode.com/problems/find-all-duplicates-in-an-array/", difficulty: "Medium", done: false },
+    { id: "p333", name: "Same Tree", link: "https://leetcode.com/problems/same-tree/description/", difficulty: "Easy", done: false },
+    { id: "p334", name: "Design In-Memory File System", link: "https://leetcode.com/problems/design-in-memory-file-system/description/", difficulty: "Hard", done: false },
+    { id: "p335", name: "Design File System", link: "https://leetcode.com/problems/design-file-system/", difficulty: "Hard", done: false },
+    { id: "p336", name: "Asteroid Collision", link: "https://leetcode.com/problems/asteroid-collision/", difficulty: "Medium", done: false },
+    { id: "p337", name: "Rotting Oranges", link: "https://leetcode.com/problems/rotting-oranges/", difficulty: "Medium", done: false },
+    { id: "p338", name: "Add Binary", link: "https://leetcode.com/problems/add-binary/", difficulty: "Easy", done: false },
+    { id: "p339", name: "Multiply Strings", link: "https://leetcode.com/problems/multiply-strings/", difficulty: "Medium", done: false }
+  ]
 }
 ];
 
