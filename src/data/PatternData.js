@@ -444,6 +444,28 @@ const PatternData = [
     { id: "p283", name: "Longest Subarray With Maximum Bitwise AND", link: "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/", difficulty: "Medium", done: false },
     { id: "p284", name: "Reverse Bits", link: "https://leetcode.com/problems/reverse-bits/description/", difficulty: "Easy", done: false }
   ]
+},
+{
+  id: 28,
+  name: "Math and Geometry",
+  problems: [
+    { id: "p285", name: "Check If It Is a Straight Line", link: "https://leetcode.com/problems/check-if-it-is-a-straight-line/", difficulty: "Easy", done: false },
+    { id: "p286", name: "Minimum Cuts to Divide a Circle", link: "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/", difficulty: "Easy", done: false },
+    { id: "p287", name: "Rectangle Overlap", link: "https://leetcode.com/problems/rectangle-overlap/", difficulty: "Easy", done: false },
+    { id: "p288", name: "Minimum Time Visiting All Points", link: "https://leetcode.com/problems/minimum-time-visiting-all-points/", difficulty: "Easy", done: false },
+    { id: "p289", name: "Reverse Integer", link: "https://leetcode.com/problems/reverse-integer/", difficulty: "Medium", done: false },
+    { id: "p290", name: "Valid Square", link: "https://leetcode.com/problems/valid-square/", difficulty: "Medium", done: false },
+    { id: "p291", name: "Rectangle Area", link: "https://leetcode.com/problems/rectangle-area/description/", difficulty: "Medium", done: false },
+    { id: "p292", name: "Minimum Area Rectangle", link: "https://leetcode.com/problems/minimum-area-rectangle/", difficulty: "Medium", done: false },
+    { id: "p293", name: "Maximum Area Rectangle With Point Constraints I", link: "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/", difficulty: "Medium", done: false },
+    { id: "p294", name: "Convex Polygon", link: "https://leetcode.com/problems/convex-polygon/", difficulty: "Hard", done: false },
+    { id: "p295", name: "Queries on Number of Points Inside a Circle", link: "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/", difficulty: "Medium", done: false },
+    { id: "p296", name: "Max Points on a Line", link: "https://leetcode.com/problems/max-points-on-a-line/", difficulty: "Hard", done: false },
+    { id: "p297", name: "Maximum Number of Visible Points", link: "https://leetcode.com/problems/maximum-number-of-visible-points/description/", difficulty: "Hard", done: false },
+    { id: "p298", name: "Minimize Manhattan Distances", link: "https://leetcode.com/problems/minimize-manhattan-distances/", difficulty: "Hard", done: false },
+    { id: "p299", name: "Minimum Number of Lines to Cover Points", link: "https://www.geeksforgeeks.org/minimum-lines-cover-points/", difficulty: "Hard", done: false },
+    { id: "p300", name: "Detonate the Maximum Bombs", link: "https://leetcode.com/problems/detonate-the-maximum-bombs/description/", difficulty: "Medium", done: false }
+  ]
 }
 ];
 
