@@ -246,6 +246,57 @@ const PatternData = [
     { id: "p151", name: "Two Sum Less Than K", link: "https://leetcode.com/problems/two-sum-less-than-k/description/", difficulty: "Hard", done: false },
     { id: "p152", name: "Maximum Number of Integers to Choose from a Range I", link: "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/", difficulty: "Medium", done: false }
   ]
+},
+{
+  id: 17,
+  name: "Matrix",
+  problems: [
+    { id: "p153", name: "Set Matrix Zeroes", link: "https://leetcode.com/problems/set-matrix-zeroes/description/", difficulty: "Medium", done: false },
+    { id: "p154", name: "Rotate Image", link: "https://leetcode.com/problems/rotate-image/description/", difficulty: "Medium", done: false },
+    { id: "p155", name: "Spiral Matrix", link: "https://leetcode.com/problems/spiral-matrix/description/", difficulty: "Medium", done: false },
+    { id: "p156", name: "Where Will the Ball Fall", link: "https://leetcode.com/problems/where-will-the-ball-fall/", difficulty: "Medium", done: false },
+    { id: "p157", name: "Transpose Matrix", link: "https://leetcode.com/problems/transpose-matrix/", difficulty: "Easy", done: false },
+    { id: "p158", name: "Count Negative Numbers in a Sorted Matrix", link: "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/", difficulty: "Easy", done: false },
+    { id: "p159", name: "Minimum Time Takes to Reach Destination Without Drowning", link: "https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning/description/", difficulty: "Medium", done: false },
+    { id: "p160", name: "Smallest Rectangle Enclosing Black Pixels", link: "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/", difficulty: "Hard", done: false },
+    { id: "p161", name: "Island Perimeter", link: "https://leetcode.com/problems/island-perimeter/", difficulty: "Easy", done: false },
+    { id: "p162", name: "Convert 1D Array Into 2D Array", link: "https://leetcode.com/problems/convert-1d-array-into-2d-array/description/", difficulty: "Easy", done: false },
+    { id: "p163", name: "Spiral Matrix II", link: "https://leetcode.com/problems/spiral-matrix-ii/description/", difficulty: "Medium", done: false },
+    { id: "p164", name: "Flip Columns For Maximum Number of Equal Rows", link: "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/", difficulty: "Medium", done: false },
+    { id: "p165", name: "Number of Spaces Cleaning Robot Cleaned", link: "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/description/", difficulty: "Hard", done: false }
+  ]
+},
+{
+  id: 18,
+  name: "Stack",
+  problems: [
+    { id: "p166", name: "Basic Calculator", link: "https://leetcode.com/problems/basic-calculator/description/", difficulty: "Hard", done: false },
+    { id: "p167", name: "Remove All Adjacent Duplicates In String", link: "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/", difficulty: "Easy", done: false },
+    { id: "p168", name: "Minimum Remove to Make Valid Parentheses", link: "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/", difficulty: "Medium", done: false },
+    { id: "p169", name: "Exclusive Time of Functions", link: "https://leetcode.com/problems/exclusive-time-of-functions/", difficulty: "Medium", done: false },
+    { id: "p170", name: "Flatten Nested List Iterator", link: "https://leetcode.com/problems/flatten-nested-list-iterator/description/", difficulty: "Medium", done: false },
+    { id: "p171", name: "Implement Queue Using Stacks", link: "https://leetcode.com/problems/implement-queue-using-stacks/", difficulty: "Easy", done: false },
+    { id: "p172", name: "Daily Temperatures", link: "https://leetcode.com/problems/daily-temperatures/description/", difficulty: "Medium", done: false },
+    { id: "p173", name: "Decode String", link: "https://leetcode.com/problems/decode-string/", difficulty: "Medium", done: false },
+    { id: "p174", name: "Minimum String Length After Removing Substrings", link: "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/", difficulty: "Easy", done: false },
+    { id: "p175", name: "Valid Parentheses", link: "https://leetcode.com/problems/valid-parentheses/description/", difficulty: "Easy", done: false }
+  ]
+},
+{
+  id: 19,
+  name: "Graphs",
+  problems: [
+    { id: "p176", name: "Network Delay Time", link: "https://leetcode.com/problems/network-delay-time/", difficulty: "Medium", done: false },
+    { id: "p177", name: "Paths in Maze That Lead to Same Room", link: "https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/", difficulty: "Hard", done: false },
+    { id: "p178", name: "Clone Graph", link: "https://leetcode.com/problems/clone-graph/", difficulty: "Medium", done: false },
+    { id: "p179", name: "Graph Valid Tree", link: "https://leetcode.com/problems/graph-valid-tree/", difficulty: "Hard", done: false },
+    { id: "p180", name: "Bus Routes", link: "https://leetcode.com/problems/bus-routes/", difficulty: "Hard", done: false },
+    { id: "p181", name: "Reconstruct Itinerary", link: "https://leetcode.com/problems/reconstruct-itinerary/", difficulty: "Hard", done: false },
+    { id: "p182", name: "Find the Town Judge", link: "https://leetcode.com/problems/find-the-town-judge/", difficulty: "Easy", done: false },
+    { id: "p183", name: "Find Center of Star Graph", link: "https://leetcode.com/problems/find-center-of-star-graph/", difficulty: "Easy", done: false },
+    { id: "p184", name: "Lucky Numbers in a Matrix", link: "https://leetcode.com/problems/lucky-numbers-in-a-matrix/", difficulty: "Easy", done: false },
+    { id: "p185", name: "Path with Maximum Probability", link: "https://leetcode.com/problems/path-with-maximum-probability/description/", difficulty: "Medium", done: false }
+  ]
 }
 ];
 
