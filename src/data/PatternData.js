@@ -333,6 +333,62 @@ const PatternData = [
     { id: "p208", name: "Two Sum IV – Input Is a BST", link: "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/", difficulty: "Easy", done: false },
     { id: "p209", name: "Connect All Siblings of a Binary Tree", link: "https://medium.com/data-structures-and-algorithms-dsa/connect-all-siblings-of-a-binary-tree-25f34f968ad3", difficulty: "Medium", done: false }
   ]
+},
+{
+  id: 22,
+  name: "Trie",
+  problems: [
+    { id: "p210", name: "Implement Trie (Prefix Tree)", link: "https://leetcode.com/problems/implement-trie-prefix-tree/description/", difficulty: "Medium", done: false },
+    { id: "p211", name: "Search Suggestions System", link: "https://leetcode.com/problems/search-suggestions-system/description/", difficulty: "Medium", done: false },
+    { id: "p212", name: "Replace Words", link: "https://leetcode.com/problems/replace-words/description/", difficulty: "Medium", done: false },
+    { id: "p213", name: "Design Add and Search Words Data Structure", link: "https://leetcode.com/problems/design-add-and-search-words-data-structure/description/", difficulty: "Medium", done: false },
+    { id: "p214", name: "Word Search II", link: "https://leetcode.com/problems/word-search-ii/description/", difficulty: "Hard", done: false },
+    { id: "p215", name: "Top K Frequent Words", link: "https://leetcode.com/problems/top-k-frequent-words/description/", difficulty: "Medium", done: false },
+    { id: "p216", name: "Longest Common Prefix", link: "https://leetcode.com/problems/longest-common-prefix/", difficulty: "Easy", done: false },
+    { id: "p217", name: "Index Pairs of a String", link: "https://leetcode.com/problems/index-pairs-of-a-string/description/", difficulty: "Hard", done: false },
+    { id: "p218", name: "Lexicographical Numbers", link: "https://leetcode.com/problems/lexicographical-numbers/description/", difficulty: "Medium", done: false }
+  ]
+},
+{
+  id: 23,
+  name: "Hash Maps",
+  problems: [
+    { id: "p219", name: "Design HashMap", link: "https://leetcode.com/problems/design-hashmap/description/", difficulty: "Easy", done: false },
+    { id: "p220", name: "Fraction to Recurring Decimal", link: "https://leetcode.com/problems/fraction-to-recurring-decimal/description/", difficulty: "Medium", done: false },
+    { id: "p221", name: "Logger Rate Limiter", link: "https://leetcode.com/problems/logger-rate-limiter/", difficulty: "Hard", done: false },
+    { id: "p222", name: "Next Greater Element I", link: "https://leetcode.com/problems/next-greater-element-i/description/", difficulty: "Easy", done: false },
+    { id: "p223", name: "Isomorphic Strings", link: "https://leetcode.com/problems/isomorphic-strings/description/", difficulty: "Easy", done: false },
+    { id: "p224", name: "Find Duplicate File in System", link: "https://leetcode.com/problems/find-duplicate-file-in-system/description/", difficulty: "Medium", done: false },
+    { id: "p225", name: "Dot Product of Two Sparse Vectors", link: "https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/", difficulty: "Hard", done: false },
+    { id: "p226", name: "High Five", link: "https://leetcode.com/problems/high-five/description/", difficulty: "Hard", done: false },
+    { id: "p227", name: "Bulls and Cows", link: "https://leetcode.com/problems/bulls-and-cows/description/", difficulty: "Medium", done: false },
+    { id: "p228", name: "Custom Sort String", link: "https://leetcode.com/problems/custom-sort-string/description/", difficulty: "Medium", done: false },
+    { id: "p229", name: "Number of Distinct Islands", link: "https://leetcode.com/problems/number-of-distinct-islands/description/", difficulty: "Hard", done: false },
+    { id: "p230", name: "Number of Wonderful Substrings", link: "https://leetcode.com/problems/number-of-wonderful-substrings/", difficulty: "Medium", done: false },
+    { id: "p231", name: "Total Appeal of a String", link: "https://leetcode.com/problems/total-appeal-of-a-string/description/", difficulty: "Hard", done: false },
+    { id: "p232", name: "Continuous Subarray Sum", link: "https://leetcode.com/problems/continuous-subarray-sum/description/", difficulty: "Medium", done: false },
+    { id: "p233", name: "Unique Number of Occurrences", link: "https://leetcode.com/problems/unique-number-of-occurrences/description/", difficulty: "Easy", done: false },
+    { id: "p234", name: "Longest Palindrome", link: "https://leetcode.com/problems/longest-palindrome/description/", difficulty: "Easy", done: false }
+  ]
+},
+{
+  id: 24,
+  name: "Know What to Track",
+  problems: [
+    { id: "p235", name: "Palindrome Permutation", link: "https://leetcode.com/problems/palindrome-permutation/description/", difficulty: "Medium", done: false },
+    { id: "p236", name: "Valid Anagram", link: "https://leetcode.com/problems/valid-anagram/description/", difficulty: "Easy", done: false },
+    { id: "p237", name: "Design Tic-Tac-Toe", link: "https://leetcode.com/problems/design-tic-tac-toe/description/", difficulty: "Hard", done: false },
+    { id: "p238", name: "Group Anagrams", link: "https://leetcode.com/problems/group-anagrams/description/", difficulty: "Medium", done: false },
+    { id: "p239", name: "Maximum Frequency Stack", link: "https://leetcode.com/problems/maximum-frequency-stack/description/", difficulty: "Hard", done: false },
+    { id: "p240", name: "First Unique Character in a String", link: "https://leetcode.com/problems/first-unique-character-in-a-string/description/", difficulty: "Easy", done: false },
+    { id: "p241", name: "Find All Anagrams in a String", link: "https://leetcode.com/problems/find-all-anagrams-in-a-string/description/", difficulty: "Medium", done: false },
+    { id: "p242", name: "Longest Palindrome by Concatenating Two-Letter Words", link: "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/", difficulty: "Medium", done: false },
+    { id: "p243", name: "Rank Teams by Votes", link: "https://leetcode.com/problems/rank-teams-by-votes/description/", difficulty: "Medium", done: false },
+    { id: "p244", name: "Pairs of Songs With Total Durations Divisible by 60", link: "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/", difficulty: "Medium", done: false },
+    { id: "p245", name: "Minimum Number of Pushes to Type Word II", link: "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/", difficulty: "Medium", done: false },
+    { id: "p246", name: "Task Scheduler", link: "https://leetcode.com/problems/task-scheduler/description/", difficulty: "Medium", done: false },
+    { id: "p247", name: "Ransom Note", link: "https://leetcode.com/problems/ransom-note/", difficulty: "Easy", done: false }
+  ]
 }
 ];
 
