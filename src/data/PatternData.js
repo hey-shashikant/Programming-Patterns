@@ -425,6 +425,25 @@ const PatternData = [
     { id: "p270", name: "Range Sum Query - Immutable", link: "https://leetcode.com/problems/range-sum-query-immutable/description/", difficulty: "Easy", done: false },
     { id: "p271", name: "LFU Cache", link: "https://leetcode.com/problems/lfu-cache/description/", difficulty: "Hard", done: false }
   ]
+},
+{
+  id: 27,
+  name: "Bitwise Manipulation",
+  problems: [
+    { id: "p272", name: "Find the Difference", link: "https://leetcode.com/problems/find-the-difference/description/", difficulty: "Easy", done: false },
+    { id: "p273", name: "Complement of Base 10 Integer", link: "https://leetcode.com/problems/complement-of-base-10-integer/", difficulty: "Easy", done: false },
+    { id: "p274", name: "Flipping an Image", link: "https://leetcode.com/problems/flipping-an-image/", difficulty: "Easy", done: false },
+    { id: "p275", name: "Single Number", link: "https://leetcode.com/problems/single-number/", difficulty: "Easy", done: false },
+    { id: "p276", name: "Single Number II", link: "https://leetcode.com/problems/single-number-ii/description/", difficulty: "Medium", done: false },
+    { id: "p277", name: "Encode and Decode Strings", link: "https://leetcode.com/problems/encode-and-decode-strings/", difficulty: "Hard", done: false },
+    { id: "p278", name: "Sum of All Subset XOR Totals", link: "https://leetcode.com/problems/sum-of-all-subset-xor-totals/", difficulty: "Easy", done: false },
+    { id: "p279", name: "Find The K-th Lucky Number", link: "https://leetcode.com/problems/find-the-k-th-lucky-number/description/", difficulty: "Hard", done: false },
+    { id: "p280", name: "Minimum Number of K Consecutive Bit Flips", link: "https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/", difficulty: "Hard", done: false },
+    { id: "p281", name: "Find the Longest Substring Having Vowels in Even Counts", link: "https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/description/", difficulty: "Medium", done: false },
+    { id: "p282", name: "Count Triplets That Can Form Two Arrays of Equal XOR", link: "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/", difficulty: "Medium", done: false },
+    { id: "p283", name: "Longest Subarray With Maximum Bitwise AND", link: "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/", difficulty: "Medium", done: false },
+    { id: "p284", name: "Reverse Bits", link: "https://leetcode.com/problems/reverse-bits/description/", difficulty: "Easy", done: false }
+  ]
 }
 ];
 
